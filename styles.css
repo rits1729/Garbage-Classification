@@ -1,0 +1,22 @@
+
+#Head_body{
+    margin:1vh;
+    padding:2vh;
+    border-style:solid;
+	 border-color:rgba(0, 0, 39, 0.801);
+    border-radius:10px;
+	color:black;
+}
+.Head_about{
+	background-image:url("images/about_pic.jpg");
+}
+.Head_policy{
+	background-image:url("images/pol.png");
+	
+}
+.Head_cons{
+	background-image:url("images/cons2.png");
+}
+.Head_nn{
+	background-color:#e6ffff;
+}

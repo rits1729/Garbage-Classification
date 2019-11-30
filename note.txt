@@ -1,0 +1,4 @@
+1> create a small database containing two or three tables like container(classes,id,location,capacity,ownerid),owner(name,address,email),garbage_history(hist_id,container_id,weight),container_history(container_id,current_weight)
+2> create a ERD and DFD
+3> create a screen where we can see details of each coontainer like current weight,capasity
+4> email notification
